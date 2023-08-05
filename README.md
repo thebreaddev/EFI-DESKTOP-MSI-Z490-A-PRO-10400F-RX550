@@ -17,3 +17,4 @@
 - SSDT-PLUG.aml is not required on macOS 12.3 and up. But i still use it for 12.2 and below compatibility, you can remove it if you don't want to use Monterey.
 - Use iMacPro or MacPro SMBIOS (Discrete Graphics only) or iMac20,x SMBIOS (only if have CPU with Integrated Graphics) for hardware decoding/encoding to work.
 - and yeah i got Lexa core GPU why not if it works
+- generate your SMBIOS info with great utility called [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) by CorpNewt.
