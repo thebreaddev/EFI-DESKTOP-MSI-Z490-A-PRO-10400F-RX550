@@ -1,5 +1,5 @@
 # EFI-DESKTOP-MSI-Z490-A-PRO-10400F-RX550
- Hackintosh EFI (OpenCore 0.9.3) for macOS Ventura MSI Z490-A PRO and i5-10400F and Sapphire AMD Radeon RX 550 PULSE OC
+ Hackintosh EFI (OpenCore 0.9.4) for macOS Ventura MSI Z490-A PRO and i5-10400F and Sapphire AMD Radeon RX 550 PULSE OC
 
 # Hardware
 - CPU: Intel Core i5-10400F
